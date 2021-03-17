@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nathan
+- 🌱 I’m currently learning how to develop in c++
+- 💞️ I’m looking to collaborate with people to do free lancing and other projects. My discord tag is SmartGamer#9908
+- 📫 You can reach me threw my email and discord.
